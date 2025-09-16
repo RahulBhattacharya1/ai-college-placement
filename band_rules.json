@@ -1,0 +1,8 @@
+{
+  "bands": [
+    { "name": "High", "min_prob": 0.75, "min_cgpa": 7.5, "min_iq": 115, "min_projects": 3 },
+    { "name": "Mid",  "min_prob": 0.45, "min_cgpa": 6.5, "min_iq": 105, "min_projects": 1 },
+    { "name": "Low",  "min_prob": 0.0 }
+  ],
+  "notes": "Tune these thresholds freely."
+}
